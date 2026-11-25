@@ -1,0 +1,32 @@
+{
+  "id": "/admin",
+  "name": "Inaya Fashion Admin Studio",
+  "short_name": "Inaya Admin",
+  "description": "Mobile-first eCommerce management, Steadfast courier dispatch, and live order console for Inaya Fashion.",
+  "start_url": "/admin",
+  "scope": "/admin",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "theme_color": "#141210",
+  "background_color": "#FAF8F5",
+  "icons": [
+    {
+      "src": "/pwa-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pwa-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pwa-maskable-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
